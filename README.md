@@ -52,9 +52,9 @@ TicTacToe/
    ```
 
 2. Przejdź do folderu projektu:
-
+```
 cd tic-tac-toe
-
+```
 3. Otwórz index.html w przeglądarce:
 
 - Na Windows: dwuklik na pliku
