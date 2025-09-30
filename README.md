@@ -79,11 +79,7 @@ Nie wymaga instalacji żadnych zależności – działa w czystej przeglądarce.
 
 👤 Autor
 
-📧 idkowiaak@gmail.com
-
-🌍 GitHub
-
-[idkowiaak](https://github.com/idkowiaak)
+📧 idkowiaak@gmail.com🌍 GitHub [idkowiaak](https://github.com/idkowiaak)
 
 🧾 Licencja
 
