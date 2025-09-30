@@ -35,7 +35,7 @@ https://idkowiaak-tictactoe-project.netlify.app/
 
 ## 📁 Struktura projektu
 
-tic-tac-toe/
+TicTacToe/
 ├── index.html
 ├── style.css
 ├── script.js
