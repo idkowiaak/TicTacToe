@@ -35,20 +35,21 @@ https://idkowiaak-tictactoe-project.netlify.app/
 
 ## 📁 Struktura projektu
 
+```
 TicTacToe/
 ├── index.html
 ├── style.css
 ├── script.js
 ├── README.md
-
+```
 ---
-
 ## 🚀 Uruchomienie lokalnie
 
 1. Sklonuj repozytorium:
 
    ```bash
    git clone https://github.com/idkowiaak/TicTacToe.git
+   ```
 
 2. Przejdź do folderu projektu:
 
