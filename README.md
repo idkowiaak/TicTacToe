@@ -83,7 +83,7 @@ Nie wymaga instalacji żadnych zależności – działa w czystej przeglądarce.
 
 🌍 GitHub
 
-idkowiaak
+[idkowiaak](https://github.com/idkowiaak)
 
 🧾 Licencja
 
